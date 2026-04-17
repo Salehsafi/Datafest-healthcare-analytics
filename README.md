@@ -32,7 +32,7 @@ I contributed to the analysis process as part of the team, working with Python a
 The original dataset is not shared in this repository because it was provided under competition restrictions and contains protected information.
 
 ## Certificate
-A certificate or event image can be added here to document participation.
+![DataFest Certificate](images/certificate.png)
 
 ## What I Learned
 This experience strengthened my skills in working with raw real-world data, collaborating on analytical tasks, and using Python and RStudio to turn data into meaningful insights.
